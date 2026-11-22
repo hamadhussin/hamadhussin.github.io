@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.hamadhussin.relax",
+        "sha256_cert_fingerprints": ["D9:28:09:E9:91:1E:76:43:91:9D:5B:5A:36:DF:BB:3D:35:00:18:84:3D:80:F9:12:95:AE:53:EE:90:42:E9:77"]
+      }
+    }]
